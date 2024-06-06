@@ -9,17 +9,17 @@ This is web based application developed for food & health related based website 
 **project demo video link** - 
 
 ### Azure technologies used in for project.
--static web apps
--Health bot
+- static web apps
+- Health bot
 
 ## features and functionalities 
 
--Interactive and responsive UI.
--Has many graphical and visual innovative effects.
--Have an aesthetically pleasing visual design and architecture.
--Has collection of many web pages including home, about us, contact, health related information etc.
--User can know food & heath related information through this website.
--Included theme switch button.
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including home, about us, contact, health related information etc.
+- User can know food & heath related information through this website.
+- Included theme switch button.
 
 **SCREENSHOTS**
 
