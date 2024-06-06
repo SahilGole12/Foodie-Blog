@@ -4,9 +4,9 @@ This is web based application developed for food & health related based website 
 
 ### This web based food application has been developed for accomplishment of Future Ready Talent Internship program launched by microsoft,future skills prime.Quess,Github & EY.
 
-**project link** - 
+**project link** - https://witty-pond-08351a910.5.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://drive.google.com/file/d/1wlaZiVptihmKHv5VUvkyvywi0TlqsqcT/view?usp=drive_link
 
 ### Azure technologies used in for project.
 - static web apps
