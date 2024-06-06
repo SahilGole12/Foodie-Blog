@@ -9,8 +9,9 @@ This is web based application developed for food & health related based website 
 **project demo video link** - https://drive.google.com/file/d/1wlaZiVptihmKHv5VUvkyvywi0TlqsqcT/view?usp=drive_link
 
 ### Azure technologies used in for project.
-- static web apps
+- Static web apps
 - Health bot
+- Load balancer
 
 ## features and functionalities 
 
