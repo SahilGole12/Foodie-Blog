@@ -1,4 +1,4 @@
-![Screenshot 2024-06-06 171513](https://github.com/SahilGole12/Foodie-Blog/assets/149513837/b224f873-73f9-4eed-97e2-9efd7599be59)![Screenshot 2024-06-06 171347](https://github.com/SahilGole12/Foodie-Blog/assets/149513837/f5c6c89e-92d7-4128-b08c-38f5a3285993)😋Foodie blog
+😋Foodie blog
 
 This is web based application developed for food & health related based website in india
 
